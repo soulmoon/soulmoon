@@ -14,12 +14,8 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 
 | Skill | Associated Project |
 |-------|--------------------|
-| **SIEM Implementation & Log Analysis** | [🔗 Detection Lab](https://github.com/YOURUSERNAME/detection-lab) |
-| **Network Traffic Monitoring & Attack Detection** | [🔗 Detection Lab](https://github.com/YOURUSERNAME/detection-lab) |
-| **Security Automation with Shuffle SOAR** | [🔗 SOC Automation Lab](https://github.com/YOURUSERNAME/soc-automation-lab) |
-| **Incident Response & Playbook Execution** | [🔗 SOC Automation Lab](https://github.com/YOURUSERNAME/soc-automation-lab) |
-| **Case Management using TheHive** | [🔗 SOC Automation Lab](https://github.com/YOURUSERNAME/soc-automation-lab) |
-| **Scripting for Threat Mitigation (Python & Bash)** | [🔗 SOC Automation Lab](https://github.com/YOURUSERNAME/soc-automation-lab) |
+| **xRDP Setup in Kali Linux** | [🔗xRDP Setup in Kali Linux](https://github.com/soulmoon/xRDP-Setup) |
+
 
 ---
 

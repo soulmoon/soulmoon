@@ -24,6 +24,7 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 ### 🕸️ Network Security
 - Wireshark
 - pfSense
+- xRDP
 
 ### 🖥️ Endpoint Security
 - Sysmon

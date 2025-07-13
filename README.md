@@ -60,21 +60,12 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 
 ## 📂 Featured Projects
 
-### 🔍 [Detection Lab](https://github.com/YOURUSERNAME/detection-lab)
-> A full SIEM and IDS-enabled environment with Windows and Linux hosts. Used to simulate attacks, generate logs, and analyze behavior via Splunk and ELK.
-
-- Deployed Zeek, Suricata, and Sysmon for telemetry
-- Detected brute-force and reverse shell attacks
-- Parsed Windows Event Logs and correlated alerts
-
----
-
-### ⚙️ [SOC Automation Lab](https://github.com/YOURUSERNAME/soc-automation-lab)
-> Built a mini-SOC using Shuffle SOAR, TheHive, and Cortex to automate incident response workflows.
-
-- Automated alerts from Zeek to TheHive case creation
-- Integrated VirusTotal and AbuseIPDB for IOC enrichment
-- Developed playbooks for phishing and brute-force response
+### 🔍 [xRDP Setup in Kali Linux](https://github.com/soulmoon/xRDP-Setup)
+- Installation and configuration of XRDP for GUI-based remote desktop
+- Linux user and permission management (sudoers)
+- Use of `iptables` for configuring inbound and outbound ICMP traffic
+- Persistence of firewall rules across system reboots
+- Practical system hardening and remote troubleshooting skills
 
 ---
 

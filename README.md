@@ -15,7 +15,7 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 | Skill | Associated Project |
 |-------|--------------------|
 | **xRDP Setup in Kali Linux** | [🔗xRDP Setup in Kali Linux](https://github.com/soulmoon/xRDP-Setup) |
-
+| **Email Phishing Analysis** | [🔗Email Phishing Analysis](https://github.com/soulmoon/Email-Phishing-Analysis) |
 
 ---
 

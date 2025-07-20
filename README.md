@@ -17,6 +17,7 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 | **xRDP Setup in Kali Linux** | [🔗xRDP Setup in Kali Linux](https://github.com/soulmoon/xRDP-Setup) |
 | **Email Phishing Analysis** | [🔗Email Phishing Analysis](https://github.com/soulmoon/Email-Phishing-Analysis) |
 | **Malware Creation and Exploitation** | [🔗Malware Creation and Exploitation](https://github.com/soulmoon/Malware-Creation-and-Exploitation-using-Kali-and-Log-Analysis-using-Splunk) | 
+| **Active-Directory-Detection-Response-Lab** | [🔗Active-Directory-Detection-Response-Lab](https://github.com/soulmoon/Active-Directory-Detection-Response-Lab) |
 
 ---
 

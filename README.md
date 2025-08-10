@@ -19,8 +19,8 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 | **Malware Creation and Exploitation** | [🔗Malware Creation and Exploitation](https://github.com/soulmoon/Malware-Creation-and-Exploitation-using-Kali-and-Log-Analysis-using-Splunk) | 
 | **Active-Directory-Detection-Response-Lab** | [🔗Active-Directory-Detection-Response-Lab](https://github.com/soulmoon/Active-Directory-Detection-Response-Lab) |
 | **SOC Automation Project** | [🔗SOC Automation Project](https://github.com/soulmoon/SOC-Automation-Project) |
-| **Cybersecurity-SOAR-EDR-Project** | [🔗Cybersecurity-SOAR-EDR-Project](https://github.com/soulmoon/Cybersecurity-SOAR-EDR-Project) |
-
+| **Cybersecurity-SOAR-EDR-Project** | [🔗Cybersecurity-SOAR-EDR-Project](https://github.com/soulmoon/Cybersecurity-SOAR-EDR-Project) | 
+| **The Crime CTF LAB - CyberDefender** | [🔗The Crime CTF LAB - CyberDefender](https://github.com/soulmoon/The-Crime-CTF-lab---CyberDefender) |
 ---
 
 ## 🧰 Tools & Technologies

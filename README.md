@@ -21,7 +21,8 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 | **SOC Automation Project** | [🔗SOC Automation Project](https://github.com/soulmoon/SOC-Automation-Project) |
 | **Cybersecurity-SOAR-EDR-Project** | [🔗Cybersecurity-SOAR-EDR-Project](https://github.com/soulmoon/Cybersecurity-SOAR-EDR-Project) | 
 | **The Crime CTF LAB - CyberDefender** | [🔗The Crime CTF LAB - CyberDefender](https://github.com/soulmoon/The-Crime-CTF-lab---CyberDefender) | 
-| **PsExec-Hunt-CTF-CyberDefender** | [🔗PsExec-Hunt-CTF-CyberDefender](https://github.com/soulmoon/Psexec-Hunt) |
+| **PsExec-Hunt-CTF-CyberDefender** | [🔗PsExec-Hunt-CTF-CyberDefender](https://github.com/soulmoon/Psexec-Hunt) | 
+| **Red-Stealer-Lab-CTF-CyberDefender** | [🔗Red-Stealer-Lab-CTF-CyberDefender](https://github.com/soulmoon/Red-Stealer-Lab) |
 ---
 
 ## 🧰 Tools & Technologies

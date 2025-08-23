@@ -26,6 +26,7 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 | **3CX-Supply-Chain-Lab-CTF-CyberDefender** | [🔗3CX-Supply-Chain-Lab-CTF-CyberDefender](https://github.com/soulmoon/3CX-Supply-Chain-CTF-Lab/tree/main) | 
 | **DanaBot-Lab-CTF-CyberDefender** | [🔗DanaBot-Lab-CTF-CyberDefender](https://github.com/soulmoon/DanaBot-Lab) |
 | **Insider-Lab-CTF-CyberDefender** | [🔗Insider-Lab-CTF-CyberDefender]( https://github.com/soulmoon/Inside-Lab) |
+| **Ramnit-Lab-CTF-CyberDefender** | [🔗Ramnit-Lab-CTF-CyberDefender](https://github.com/soulmoon/Ramnit-Lab) |
 ---
 
 ## 🧰 Tools & Technologies

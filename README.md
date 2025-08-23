@@ -12,7 +12,7 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 
 ## 🧠 Skills & Projects
 
-| Skill | Associated Project |
+| Skill | Major Project |
 |-------|--------------------|
 | **xRDP Setup in Kali Linux** | [🔗xRDP Setup in Kali Linux](https://github.com/soulmoon/xRDP-Setup) |
 | **Email Phishing Analysis** | [🔗Email Phishing Analysis](https://github.com/soulmoon/Email-Phishing-Analysis) |
@@ -20,6 +20,9 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 | **Active-Directory-Detection-Response-Lab** | [🔗Active-Directory-Detection-Response-Lab](https://github.com/soulmoon/Active-Directory-Detection-Response-Lab) |
 | **SOC Automation Project** | [🔗SOC Automation Project](https://github.com/soulmoon/SOC-Automation-Project) |
 | **Cybersecurity-SOAR-EDR-Project** | [🔗Cybersecurity-SOAR-EDR-Project](https://github.com/soulmoon/Cybersecurity-SOAR-EDR-Project) | 
+
+| Skill | Lab Projects |
+|-------|--------------------|
 | **The Crime CTF LAB - CyberDefender** | [🔗The Crime CTF LAB - CyberDefender](https://github.com/soulmoon/The-Crime-CTF-lab---CyberDefender) | 
 | **PsExec-Hunt-CTF-CyberDefender** | [🔗PsExec-Hunt-CTF-CyberDefender](https://github.com/soulmoon/Psexec-Hunt) | 
 | **Red-Stealer-Lab-CTF-CyberDefender** | [🔗Red-Stealer-Lab-CTF-CyberDefender](https://github.com/soulmoon/Red-Stealer-Lab) | 

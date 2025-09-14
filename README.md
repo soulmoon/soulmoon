@@ -35,6 +35,7 @@ I am actively seeking a **Cyber Security Analyst** role where I can contribute t
 | **TomcatTakeover-Lab-CTF-CyberDefender** | [🔗TomcatTakeover-Lab-CTF-CyberDefender](https://github.com/soulmoon/TomcatTakeover/) |
 | **RedLine-Lab-CTF-CyberDefender** | [🔗RedLine-Lab-CTF-CyberDefender](https://github.com/soulmoon/RedLine-Lab/) | 
 | **IceID-Lab-CTF-CyberDefender** | [🔗IceID-Lab-CTF-CyberDefender](https://github.com/soulmoon/IcedID-Lab/) |
+| **WebInvestigation-Lab-CTF-CyberDefender** | [🔗WebInvestigation-Lab-CTF-CyberDefender](https://github.com/soulmoon/The-Web-Investigation-Lab) |
 ---
 
 ## 🧰 Tools & Technologies
